@@ -10,5 +10,7 @@
 .header{
     background-color: var(--fundo);
     display: flex;
-    width: 40%;
+    width: 100%;
+    margin: none;
+    padding: auto;
 }
